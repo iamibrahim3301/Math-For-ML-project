@@ -1,1 +1,1 @@
-# Math-For-ML-project
+# Math-For-ML-project-Only using-numpy
